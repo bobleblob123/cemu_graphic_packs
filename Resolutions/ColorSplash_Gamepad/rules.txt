@@ -5,7 +5,6 @@ path = "Paper Mario: Color Splash/Graphics/Gamepad"
 description = Changes the gamepad resolution of the game.
 version = 4
 
-
 [Preset]
 name = 4K gamepad
 $padWidth = 3840
